@@ -1,9 +1,20 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm whenxuan</h1>
+
+<p align="center">
+  <a href="https://wwhenxuan.github.io/">🌐 Homepage</a> | 
+  <a href="https://github.com/wwhenxuan">💻 GitHub</a> |
+  <a href="whenxuan@ieee.org">📧 Email</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Time+Series+Analysis+(TSA);Nonlinear+Dynamics+and+Chaos;Symbolic+Regression+(Scientific+Discovery);Signal+Processing+(Decompsition);M.S.+%40+Xidian+University&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
+</p>
 
 🔭 I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering.
 
-🌱 My research interests include Time Series Analysis (TSA) with deep learning methods, Signal Processing, Complex System Modeling and Symbolic Regression.
+🌱 My research interests include Time Series Analysis (TSA) with deep learning methods, Signal Processing, Complex System Modeling and Symbolic Regression (Scientific+Discovery).
+
+😄 My hobbies are programming, photography, videography, cycling and hiking. I think any one of them is enough to support a person to live a wonderful life.
 
 ![background](./images/background.png)
 
