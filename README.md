@@ -12,7 +12,7 @@
 
 🔭 **About Me**: I graduated from the School of Artificial Intelligence in [Xidian University](https://www.xidian.edu.cn/) and am currently pursuing a master's degree in the School of Telecommunications Engineering.
 
-🌱 **Research interests**: Time Series Analysis (TSA) with deep learning methods, Signal Processing, Complex System Modeling and Symbolic Regression (Scientific+Discovery).
+🌱 **Research interests**: Time Series Analysis (TSA) with deep learning methods, Signal Processing, Complex System Modeling and Symbolic Regression (Scientific Discovery).
 
 😄 **Hobbies**: About programming, photography (Nikon Z6III), videography, cycling and hiking. I think any one of them is enough to support a person to live a wonderful life.
 
