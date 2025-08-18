@@ -14,7 +14,7 @@
 
 🌱 **Research interests**: Time Series Analysis (TSA) with deep learning methods, Signal Processing, Complex System Modeling and Symbolic Regression (Scientific+Discovery).
 
-😄 **hobbies**: About programming, photography (Nikon Z6III), videography, cycling and hiking. I think any one of them is enough to support a person to live a wonderful life.
+😄 **Hobbies**: About programming, photography (Nikon Z6III), videography, cycling and hiking. I think any one of them is enough to support a person to live a wonderful life.
 
 ![background](./images/background.png)
 
