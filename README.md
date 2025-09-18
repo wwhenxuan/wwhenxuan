@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://wwhenxuan.github.io/">🌐 Homepage</a> | 
   <a href="https://github.com/wwhenxuan">💻 GitHub</a> |
-  <a href="mailto:whenxuan@ieee.org">📧 Email</a>
+  <a href="mailto:whenxuan@ieee.org">📧 Email</a> |
+  <a href="https://scholar.google.com/citations?user=H69ElC0AAAAJ&hl=zh-CN">🎓 Google Scholar</a>
 </p>
 
 <p align="center">
@@ -17,6 +18,10 @@
 😄 **Hobbies**: About programming, photography (Nikon Z6III), videography, cycling and hiking. I think any one of them is enough to support a person to live a wonderful life.
 
 ![background](./images/background.png)
+
+### 🔥 News
+
+- **[Sep. 2025]** Our paper "**[*SymTime*](https://arxiv.org/abs/2502.15466)**: Synthetic Series-Symbol Data Generation for Time Series Foundation Models" has been accepted by **NeurIPS 2025**.
 
 <!--
 **wwhenxuan/wwhenxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
