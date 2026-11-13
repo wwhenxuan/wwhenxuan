@@ -21,5 +21,8 @@
 
 ### 🔥 News
 
+
+- **[Nov. 2026]** Our paper "LiteSpecFormer: a lightweight pretrained foundation model for zero-shot spectrum prediction" has been accepted by **SCIS**.
+- **[Oct. 2026]** Our paper "[PHM-LLM](10.1016/j.neucom.2026.135551): A cross-modal pre-trained LLM for bearing fault diagnosis and remaining useful life prediction" has been accepted by **Neurocomputing**.
 - **[Aug. 2026]** Our signal decomposition library in Python: [`PySDKit`](https://github.com/wwhenxuan/PySDKit) has now released [new documentation](https://pysdkit.readthedocs.io/en/stable/index.html), which provides numerous examples of mode decomposition algorithms.
 - **[Sep. 2025]** Our paper "**[*SymTime*](https://arxiv.org/abs/2502.15466)**: Synthetic Series-Symbol Data Generation for Time Series Foundation Models" has been accepted by **NeurIPS 2025**.
